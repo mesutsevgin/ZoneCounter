@@ -1,0 +1,16 @@
+C:\Users\aa\Desktop\vscode projects\ZoneDetection\zonedetection\bin\Debug\net5.0\ZoneDetection.exe
+C:\Users\aa\Desktop\vscode projects\ZoneDetection\zonedetection\bin\Debug\net5.0\ZoneDetection.deps.json
+C:\Users\aa\Desktop\vscode projects\ZoneDetection\zonedetection\bin\Debug\net5.0\ZoneDetection.runtimeconfig.json
+C:\Users\aa\Desktop\vscode projects\ZoneDetection\zonedetection\bin\Debug\net5.0\ZoneDetection.runtimeconfig.dev.json
+C:\Users\aa\Desktop\vscode projects\ZoneDetection\zonedetection\bin\Debug\net5.0\ZoneDetection.dll
+C:\Users\aa\Desktop\vscode projects\ZoneDetection\zonedetection\bin\Debug\net5.0\ref\ZoneDetection.dll
+C:\Users\aa\Desktop\vscode projects\ZoneDetection\zonedetection\bin\Debug\net5.0\ZoneDetection.pdb
+C:\Users\aa\Desktop\vscode projects\ZoneDetection\zonedetection\obj\Debug\net5.0\ZoneDetection.csprojAssemblyReference.cache
+C:\Users\aa\Desktop\vscode projects\ZoneDetection\zonedetection\obj\Debug\net5.0\ZoneDetection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aa\Desktop\vscode projects\ZoneDetection\zonedetection\obj\Debug\net5.0\ZoneDetection.AssemblyInfoInputs.cache
+C:\Users\aa\Desktop\vscode projects\ZoneDetection\zonedetection\obj\Debug\net5.0\ZoneDetection.AssemblyInfo.cs
+C:\Users\aa\Desktop\vscode projects\ZoneDetection\zonedetection\obj\Debug\net5.0\ZoneDetection.csproj.CoreCompileInputs.cache
+C:\Users\aa\Desktop\vscode projects\ZoneDetection\zonedetection\obj\Debug\net5.0\ZoneDetection.dll
+C:\Users\aa\Desktop\vscode projects\ZoneDetection\zonedetection\obj\Debug\net5.0\ref\ZoneDetection.dll
+C:\Users\aa\Desktop\vscode projects\ZoneDetection\zonedetection\obj\Debug\net5.0\ZoneDetection.pdb
+C:\Users\aa\Desktop\vscode projects\ZoneDetection\zonedetection\obj\Debug\net5.0\ZoneDetection.genruntimeconfig.cache
